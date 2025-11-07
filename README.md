@@ -66,6 +66,10 @@ Contributions are welcome!
 
 - HiRT: Enhancing Robotic Control with Hierarchical Robot Transformers (**Conference on Robot Learning (CoRL) 2024**)[[paper](https://arxiv.org/abs/2410.05273v3)][[code]]
 
+- GR00T N1: An Open Foundation Model for Generalist Humanoid Robots (**arXiv 2025.3**)[[paper](https://arxiv.org/abs/2503.14734)][[code](https://github.com/NVIDIA/Isaac-GR00T)][[tech](https://developer.nvidia.com/isaac/gr00t)]
+
+- GR00T N1.5: An Improved Open Foundation Model for Generalist Humanoid Robots [[tech](https://research.nvidia.com/labs/gear/gr00t-n1_5/)][[code](https://github.com/NVIDIA/Isaac-GR00T)][[blog](https://learnopencv.com/gr00t-n1_5-explained/)]
+
 
 ## Related Awesome lists
 
