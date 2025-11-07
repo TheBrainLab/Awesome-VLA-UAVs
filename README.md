@@ -29,6 +29,8 @@ Contributions are welcome!
 
 - General-Purpose Aerial Intelligent Agents Empowered by Large Language Models (**arXiv 2025.5**)[[paper](https://arxiv.org/abs/2503.08302)][[code]]
 
+- RAVEN: Resilient Aerial Navigation via Open-Set Semantic Memory and Behavior Adaptation (**arXiv 2025.9** "Best Paper Finalist at IROS 2025 Active Perception Workshop")[[paper](https://arxiv.org/pdf/2509.23563)][[project](https://raven-semantic.github.io/)]
+
 
 ## 2024
 
