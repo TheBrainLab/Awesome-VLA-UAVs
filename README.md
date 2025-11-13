@@ -11,6 +11,8 @@ Contributions are welcome!
 
 - TypeFly: Low-Latency Drone Planning With Large Language Models (**IEEE Transactions on Mobile Computing 2025.9**) [[paper](https://ieeexplore.ieee.org/abstract/document/10970379)][[code](https://github.com/typefly/TypeFly)]
 
+- Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology (**OpenUAV**) (**ICLR 2025**)[[paper](https://openreview.net/forum?id=rUvCIvI4eB)][[code](https://github.com/prince687028/TravelUAV)]
+
 - UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning (**arXiv 2025.5**)[[paper](https://arxiv.org/abs/2505.15725)][[code](https://github.com/buaa-colalab/UAV-Flow)]
 
 - UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents (**ACM MM Dataset Track 2025**)[[paper](https://arxiv.org/abs/2508.00288)][[code](https://github.com/Kyaren/UAV_ON)]
@@ -37,8 +39,6 @@ Contributions are welcome!
 - **[Review]** Large Language Models for UAVs: Current State and Pathways to the Future (**IEEE Open Journal of Vehicular Technology 2024.8**) [[paper](https://ieeexplore.ieee.org/document/10643253)][[code]]
 
 - AeroVerse: UAV-Agent Benchmark Suite for Simulating, Pre-training, Finetuning, and Evaluating Aerospace Embodied World Models (**arXiv 2024.8**)[[paper](https://arxiv.org/abs/2408.15511)][[code]]
-
-- Towards Realistic UAV Vision-Language Navigation: Platform, Benchmark, and Methodology (**OpenUAV**) (**arXiv 2024.10**)[[paper](https://arxiv.org/abs/2410.07087)][[code](https://github.com/prince687028/TravelUAV)]
 
 - TPML: Task Planning for Multi-UAV System with Large Language Models (**2024 IEEE 18th International Conference on Control & Automation (ICCA)**)[[paper](https://ieeexplore.ieee.org/document/10591846)][[code](https://github.com/PengICS/eai_sim)]
 
