@@ -80,3 +80,6 @@ Contributions are welcome!
 - [Sautenich/Awesome-Aerial-Vision-Language-Navigation](https://github.com/Sautenich/Awesome-Aerial-Vision-Language-Navigation)
 
 
+- [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)
+
+- [jonyzhang2023/awesome-embodied-vla-va-vln](https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln)
