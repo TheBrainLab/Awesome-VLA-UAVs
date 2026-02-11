@@ -3,9 +3,23 @@ A list of research papers and other related resources on Vision-Language-Action/
 
 Contributions are welcome! 
 
+## 2026
+
+- AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation (**arXiv 2026.1**)[[paper](https://arxiv.org/abs/2601.12742)][[code]]
+(Note: **Dual system**)
+
+- AirNav: A Large-Scale Real-World UAV Vision-and-Language Navigation Dataset with Natural and Diverse Instructions (**arXiv 2026.1**)[[paper](https://arxiv.org/abs/2601.03707)][[code](https://littlelucifer1.github.io/AirNav/)](Note: **Dataset**)
+
+
+
+
+
 ## 2025
 
 - **[Review]** UAVs Meet LLMs: Overviews and Perspectives Toward Agentic Low-Altitude Mobility (**Information Fusion 2025.3**)[[paper](https://doi.org/10.1016/j.inffus.2025.103158)][[code](https://github.com/Hub-Tian/UAVs_Meet_LLMs?tab=readme-ov-file)]
+
+- LongFly: Long-Horizon UAV Vision-and-Language Navigation with Spatiotemporal Context Integration (**arXiv 2025.12**)[[paper](https://arxiv.org/abs/2512.22010v1)][[code]]
+(Note: **Using history info**)
 
 - OpenFly: A Comprehensive Platform for Aerial Vision-Language Navigation (**arXiv 2025.7**)[[paper](https://arxiv.org/abs/2502.18041)][[code](https://github.com/SHAILAB-IPEC/OpenFly-Platform)]
 
@@ -18,6 +32,8 @@ Contributions are welcome!
 - UAV-ON: A Benchmark for Open-World Object Goal Navigation with Aerial Agents (**ACM MM Dataset Track 2025**)[[paper](https://arxiv.org/abs/2508.00288)][[code](https://github.com/Kyaren/UAV_ON)]
 
 - AeroDuo: Aerial Duo for UAV-based Vision and Language Navigation (**ACM MM 2025**)[[paper](https://arxiv.org/abs/2508.15232)][[code]]
+
+- Open3D-VQA: A Benchmark for Comprehensive Spatial Reasoning with Multimodal Large Language Model in Open Space (**ACM MM'25**)[[paper](https://arxiv.org/abs/2503.11094)][[code](https://github.com/EmbodiedCity/Open3D-VQA.code)](Note: **Dataset**)
 
 - CityNav: A Large-Scale Dataset for Real-World Aerial Navigation (**ICCV 2025**)[[paper](https://arxiv.org/abs/2406.14240)][[code](https://water-cookie.github.io/city-nav-proj/)]
 
