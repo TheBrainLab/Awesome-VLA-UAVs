@@ -5,6 +5,9 @@ Contributions are welcome!
 
 ## 2026
 
+- APEX: A Decoupled Memory-based Explorer for Asynchronous Aerial Object Goal Navigation (**CVPR 2026**)[[paper](https://arxiv.org/abs/2602.00551)][[code](https://github.com/4amGodvzx/apex/)]
+(Note: **Dual system; History info**)
+
 - History-Enhanced Two-Stage Transformer for Aerial Vision-and-Language Navigation (**AAAI 2026**)[[paper](https://arxiv.org/pdf/2512.14222)][[code](https://github.com/crotonyl/HETT)]
 (Note: **Two-stage:先看大概方位，再找具体细节；历史网格地图**)
 
@@ -45,6 +48,9 @@ Contributions are welcome!
 - See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation (**CoRL 2025**)[[paper](https://arxiv.org/pdf/2509.22653)][[code](https://spf-web.pages.dev/)]
 (Note: **Dual system, SPF**)
 
+- VLA-AN: An Efficient and Onboard Vision-Language-Action Framework for Aerial Navigation in Complex Environments (**arXiv 2025.12**)[[paper](https://arxiv.org/abs/2512.15258)][[code]]
+(Note: **End-to-end, 3-stage training strategy, Onboard implementation**)
+
 - NavRL: Learning Safe Flight in Dynamic Environments (**IEEE Robotics and Automation Letters, 2025.4**)[[paper](https://ieeexplore.ieee.org/document/10904341)][[code](https://github.com/Zhefan-Xu/NavRL)]
 (Note: **Deep RL, Using depth info**)
 
@@ -63,6 +69,8 @@ Contributions are welcome!
 - MonoSpheres: Large-Scale Monocular SLAM-Based UAV Exploration through Perception-Coupled Mapping and Planning (**arXiv 2025.11**)[[paper](https://arxiv.org/pdf/2511.17299v1)][[code](https://github.com/ctu-mrs/monospheres)](Note: **单目SLAM与感知建图与规划的融合**)
 
 - OpenVLN: Open-world Aerial Vision-Language Navigation (**arXiv 2025.11**)[[paper](https://arxiv.org/pdf/2511.06182v2)][[code]](Note: **利用强化学习和值模型应对数据稀缺和长视域规划的双重挑战**)
+
+- UAV-VLRR: Vision-Language Informed NMPC for Rapid Response in UAV Search and Rescue (**arXiv 2025.3**)[[paper](https://arxiv.org/pdf/2503.02465)][[code](https://github.com/ahsan-mustafa/uav-vlrr)](Note: **VLM + NMPC**)
 
 - UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning (**arXiv 2025.5**)[[paper](https://arxiv.org/abs/2505.15725)][[code](https://github.com/buaa-colalab/UAV-Flow)]
 
